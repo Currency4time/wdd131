@@ -8,7 +8,7 @@ h1{
     letter-spacing: 2px;
 }
 
-h4{
+h2{
     color:#006EB6;
     margin-bottom: -6px;
     margin-top: -10px;
@@ -31,4 +31,13 @@ li{
 img{
     width: 150px;
     padding-top: 10px;
+}
+
+.dark{
+    background-color: #333;
+    color: white
+}
+
+.dark h2{
+    color:#FF9149
 }
