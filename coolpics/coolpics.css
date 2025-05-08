@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Mooli&display=swap");
+
+body{
+    /* background-color: red; */
+}
+
+header {
+    background-color: indigo;
+    color: white;
+    font-family: "Mooli";
+}
+
+nav {
+    font-family: Arial;
+}
+
+main {
+    font-family: ;
+}
+
+footer {
+    background-color: indigo;
+    color: white;
+    font-family: Arial;
+}
+}
+@media only screen and (min-width: 500px)
+    
+}
